@@ -12,8 +12,5 @@ ryan.j.moore35@gmail.com
 
 mooreanalysis35@gmail.com
 
-Alternatively, you can navigate to my professional porfolio and fill in a contact form
-here:
-
-<p><a href="https://www.mooreanalysis.com/contact/">contact form.</a>
-</p>
+<p>Alternatively, you can navigate to my professional porfolio and fill in a contact form
+<a href="https://www.mooreanalysis.com/contact/">here.</a></p>
