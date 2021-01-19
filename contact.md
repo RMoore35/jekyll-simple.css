@@ -1,6 +1,6 @@
 ---
 title: Contact | Ryan Moore
-header: Contact Ryan Moore
+header: Contact me
 description: How to contact me.
 permalink: /contact/
 layout: default

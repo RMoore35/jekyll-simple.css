@@ -1,7 +1,7 @@
 ---
 title: About | Ryan Moore
-header: About Ryan Moore
-description: This page tells you a little bit about this website.
+header: About
+description: A brief intro to me, myself, and I.
 permalink: /about/
 layout: default
 ---
