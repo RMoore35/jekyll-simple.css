@@ -7,7 +7,7 @@ author: Ryan Moore
 description: This is my Jekyll website that is running simple.css
 lang: en
 locale: en
-url: "https://www.mooreanalysis.com/blog"
+url: "https://blog.mooreanalysis.com"
 baseurl: ""
 
 # RSS feeds
