@@ -1,7 +1,7 @@
 ---
-title: Contact | Simple Jekyll
-header: Contact Simple Jekyll
-description: This page tells you a little bit about this website.
+title: Contact | Ryan Moore
+header: Contact Ryan Moore
+description: How to contact me.
 permalink: /contact/
 layout: default
 ---

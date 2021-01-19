@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog | Simple Jekyll
+title: Blog | Ryan Moore
 header: Blog
-description: Where the magic happens - this is the blog!
+description: Where the magic happens - this is my blog!
 permalink: /blog/
 ---
 

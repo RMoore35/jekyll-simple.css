@@ -1,6 +1,6 @@
 ---
-title: About | Simple Jekyll
-header: About Simple Jekyll
+title: About | Ryan Moore
+header: About Ryan Moore
 description: This page tells you a little bit about this website.
 permalink: /about/
 layout: default
