@@ -1,0 +1,61 @@
+---
+title: Covid
+header: Covid
+description: My struggles with weight-gain during lockdown
+permalink: /Covid/
+layout: post
+---
+
+The below is a little word-vomity but I wanted to get it all out in one sitting.
+So, here we go.
+
+Completely unscientifically (I'm not great about weighing myself), I have
+gained about 15-20 pounds since the onset of the pandemic/lockdowns. Oof.
+
+When lockdowns were first announced, I moved back into a house I was remodeling.
+The first three months were both a blessing and a curse, as I was able to finish
+the remodeling work I needed to, but also drank a lot and ate very poorly. A
+normal dinner was a box of mac & cheese, a half-gallon of ice cream, and a six-pack.
+
+A typical day consisted of zooming into my classes, finishing as many projects
+as I could around the house, and then binge eating and drinking for the rest
+of the night. Again, this was not a great time and not something I'm very proud of.
+
+I went home to spend the summer with my parents after classes finished in May. In
+contrast, this was a rather healthy time for me. I started a part-time job as a
+back-end developer for a start-up and accomplished a lot.
+
+But, when I went back to Louisiana for fall classes, I fell back into the
+same pattern. Fortunately, I was not drinking nearly as much as I did in the spring,
+but I continued to eat poorly and did not exercise hardly at all. As a result, I
+continued to gain weight.
+
+The wake-up call for me came around mid-October. I had to wear dress clothes for
+the first time since the start of the pandemic and realized that I had gained
+enough weight that they didn't fit.
+
+So, I was left with two choices: buy all new dress clothes or lose weight.
+
+Thus, I started the journey I am currently on: losing all the weight I gained during
+Covid - and maybe more.
+
+When classes let out right before Thanksgiving, I headed home to spend over a month
+with my parents. We woke up nearly every morning between 5-6 am and did around
+40 minutes of a workout program. Towards the end of my break, I spent an additional
+week with my sister doing the same thing.
+
+Initially, I didn't make much progress, probably because of all the holiday eating!
+But I am now back in Louisiana and am starting to make real progress. I have been
+eating as clean as possible, specifically consuming about 200-400 calories less
+than my maintenance calories, and not drinking at all (this I think is key for
+my body type).
+
+And that's my experience with Covid weight-gain. I know I'm not the only one. For me,
+I think this will serve as a reminder as I near my 30s to take better care of
+myself. I have to watch out that I don't fall into a similar pattern ever again.
+
+Day 2: #100DaysToOffload
+
+P.S. A lot of people have experienced terrible personal tragedies over the past
+year since the onset of the Covid pandemic. This post is not meant to downplay or
+overshadow those situations or those individuals in any way.
