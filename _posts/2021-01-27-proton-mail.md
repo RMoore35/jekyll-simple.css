@@ -60,27 +60,3 @@ A few notable features:
 I hope this review was useful. I'm excited to see what else Proton Mail has to offer.
 
 Day 9: #100DaysToOffload
-
-<img src="/assets/images/profilepic.jpg" />
-
-<ul>
-  <li>I've sailed across the Atlantic</li>
-  <li>I've been to Iceland</li>
-  <li>I've been skydiving</li>
-</ul>
-
-<a href="https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector">New Yorker.</a>
-
-<pre>
-<code>
-  require 'Faker'
-
-  $i = 0
-  $num = 15370
-
-  while $i < $num  do
-    puts Faker::Restaurant.name
-    $i +=1
-  end
-</code>
-</pre>
