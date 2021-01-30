@@ -11,7 +11,7 @@ they have you over for dinner.
 
 Leave an entry of your own and/or read the entries left by others.
 
-<form method="post" name = "contactform" action="contact-form-handler.php">  
+<form method="POST" name = "guestbook" data-netlify="true">  
  <p>  
    <label>Name*</label><br>  
    <input type="text" name="name">  
@@ -34,5 +34,5 @@ Leave an entry of your own and/or read the entries left by others.
    <li>Your entry will only be visible in the guestbook after I have reviewed it.</li>
    <li>I reserve the right to edit, delete, or not publish entries.</li>
  </ul>
- <input type="submit" value="Submit" return = "False"/>
+ <button type="submit">Submit</button>
 </form>
