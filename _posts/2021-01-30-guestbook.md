@@ -70,7 +70,7 @@ If you are using Netlify, the most important change is in the first line of the 
 
 <pre>
 <code>
-  form method="POST" name = "guestbook" data-netlify="true" 
+  form method="POST" name = "guestbook" data-netlify="true"
 </code>
 </pre>
 
@@ -80,7 +80,6 @@ the guestbook.md file to include the following below the form:
 
 <pre>
 <code>
-<p>
 <ul>
   <li>Date: January 30th, 2021</li>
   <li>Name: Ryan</li>
@@ -88,7 +87,6 @@ the guestbook.md file to include the following below the form:
   <li>Website: <a href="https://blog.mooreanalysis.com/">blog.mooreanalysis.com</a></li>
   <li>Entry: This is what your entry will look like!</li>
 </ul>
-</p>
 </code>
 </pre>
 
