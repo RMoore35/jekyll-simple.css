@@ -18,7 +18,7 @@ Leave an entry of your own and/or read the entries left by others.
  </p>  
  <p>  
    <label>Email</label><br>  
-   <input type="email" name="email" required="">  
+   <input type="email" name="email">  
  </p>  
  <p>  
    <label>Website</label><br>  
@@ -33,6 +33,6 @@ Leave an entry of your own and/or read the entries left by others.
    <li>Your E-mail address won't be published.</li>
    <li>Your entry will only be visible in the guestbook after I have reviewed it.</li>
    <li>I reserve the right to edit, delete, or not publish entries.</li>
- </ul> 
+ </ul>
  <input type="submit" value="Submit" />
 </form>
