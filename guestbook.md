@@ -11,10 +11,10 @@ they have you over for dinner.
 
 Leave an entry of your own and/or read the entries left by others.
 
-<form method="post" action="mailto:rjmoore1991@gmail.com">  
+<form method="post" name = "contactform" action="contact-form-handler.php">  
  <p>  
    <label>Name*</label><br>  
-   <input type="text" name="first_name">  
+   <input type="text" name="name">  
  </p>  
  <p>  
    <label>Email</label><br>  
@@ -26,6 +26,7 @@ Leave an entry of your own and/or read the entries left by others.
  </p>  
  <p>  
    <label>Guestbook Entry*</label><br>  
+   <input type="text" name="guestbook-entry">
    <textarea></textarea>  
  </p>  
  <ul>
