@@ -100,27 +100,3 @@ If you have any feedback on this I look forward to hearing it!
 
 
 Day 12: #100DaysToOffload
-
-<img src="/assets/images/profilepic.jpg" />
-
-<ul>
-  <li>I've sailed across the Atlantic</li>
-  <li>I've been to Iceland</li>
-  <li>I've been skydiving</li>
-</ul>
-
-<a href="https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector">New Yorker.</a>
-
-<pre>
-<code>
-  require 'Faker'
-
-  $i = 0
-  $num = 15370
-
-  while $i < $num  do
-    puts Faker::Restaurant.name
-    $i +=1
-  end
-</code>
-</pre>
