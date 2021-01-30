@@ -9,7 +9,9 @@ layout: post
 I wanted to do a guide on how to set up a guestbook page on a Jekyll/Simple.css, like mine.
 
 For the purposes of this guide, I am going to assume you having a working Jekyll/Simple.css
-site and that you know your way around the terminal on a mac.
+site and that you know your way around the terminal on a mac. I'm also going to assume
+you are using with <a href="https://www.netlify.com/">Netlify.</a> They have very simple
+form handling and that's why I am using it.
 
 First, you need to edit your navigation.yml file to include a link to the guestbook
 page. Remember that the navigation.yml file is in the _data folder. The code will look
@@ -60,6 +62,18 @@ Leave an entry of your own and/or read the entries left by others.
 
 Next, I am going to build the form. For this, I am going to use the code from <a href="https://simplecss.org/demo">Simple.css</a>. I'm not going to copy the full code because it is long,
 but if you go to the demo guide, just scroll down to the form code.
+
+If you are using Netlify, the most important change is in the first line of the form:
+
+<pre>
+<code>
+<form method="POST" name = "guestbook" data-netlify="true">  
+</code>
+</pre>
+
+As of the time of writing this post, I am planning on reviewing the forms within my
+Netlify dashboard and posting them below the guestbook form. This means I need to update
+the guestbook.md file like so:
 
 
 

@@ -11,6 +11,10 @@ they have you over for dinner.
 
 Leave an entry of your own and/or read the entries left by others.
 
+* This form uses <a href="https://www.netlify.com/">Netlify</a> for form handling.
+As of now, I will be manually reviewing and posting whatever you submit below the contact form.
+I hope to update this in the future to an easier system.
+
 <form method="POST" name = "guestbook" data-netlify="true">  
  <p>  
    <label>Name*</label><br>  
@@ -36,3 +40,9 @@ Leave an entry of your own and/or read the entries left by others.
  </ul>
  <button type="submit">Submit</button>
 </form>
+
+{% for entry in site.guestbook %}
+  <p><br>
+  {{ entry }}<br>
+  </p>
+{% endfor %}
