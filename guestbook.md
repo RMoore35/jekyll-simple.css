@@ -26,8 +26,7 @@ Leave an entry of your own and/or read the entries left by others.
  </p>  
  <p>  
    <label>Guestbook Entry*</label><br>  
-   <input type="text" name="guestbook-entry">
-   <textarea></textarea>  
+   <textarea name = "guestbook-entry"></textarea>  
  </p>  
  <ul>
    <li>Fields marked with * are required.</li>
@@ -35,5 +34,5 @@ Leave an entry of your own and/or read the entries left by others.
    <li>Your entry will only be visible in the guestbook after I have reviewed it.</li>
    <li>I reserve the right to edit, delete, or not publish entries.</li>
  </ul>
- <input type="submit" value="Submit" />
+ <input type="submit" value="Submit" return = "False"/>
 </form>
