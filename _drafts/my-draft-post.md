@@ -70,7 +70,7 @@ If you are using Netlify, the most important change is in the first line of the 
 
 <pre>
 <code>
-<form method="POST" name = "guestbook" data-netlify="true">  
+  form method="POST" name = "guestbook" data-netlify="true"
 </code>
 </pre>
 
