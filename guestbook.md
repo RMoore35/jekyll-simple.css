@@ -43,11 +43,12 @@ I hope to update this in the future to an easier system.
 
 Entries:
 
-{% for entry in site.guestbook %}
-  <p><br>
-  {{ entry.Name }}<br>
-  {{ entry.Email}}<br>
-  {{ entry.Website }}<br>
-  {{ entry.Entry}}<br>
-  </p>
-{% endfor %}
+<p>
+<ul>
+  <li>Date: January 30th, 2021</li>
+  <li>Name: Ryan</li>
+  <li>Email: ryan.j.moore35@gmail.com</li>
+  <li>Website: <a href="https://blog.mooreanalysis.com/">blog.mooreanalysis.com</a></li>
+  <li>Entry: This is what your entry will look like!</li>
+</ul>
+</p>

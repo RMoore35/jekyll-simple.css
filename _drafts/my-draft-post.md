@@ -6,11 +6,14 @@ permalink: /10-day-recap/
 layout: post
 ---
 
-I wanted to do a guide on how to set up a guestbook page on a Jekyll/Simple.css, like mine.
+I wanted to do a guide on how to set up a guestbook page on a Jekyll/Simple.css, like
+<a href="https://blog.mooreanalysis.com/guestbook/">mine.</a>
+
+Note that as you will see below this is a (hopefully) temporary solution. If you are looking for a fully functional, fully automated guestbook you'll have to look elsewhere.
 
 For the purposes of this guide, I am going to assume you having a working Jekyll/Simple.css
 site and that you know your way around the terminal on a mac. I'm also going to assume
-you are using with <a href="https://www.netlify.com/">Netlify.</a> They have very simple
+you are using <a href="https://www.netlify.com/">Netlify.</a> They have very simple
 form handling and that's why I am using it.
 
 First, you need to edit your navigation.yml file to include a link to the guestbook
@@ -73,10 +76,27 @@ If you are using Netlify, the most important change is in the first line of the 
 
 As of the time of writing this post, I am planning on reviewing the forms within my
 Netlify dashboard and posting them below the guestbook form. This means I need to update
-the guestbook.md file like so:
+the guestbook.md file to include the following below the form:
 
+<pre>
+<code>
+<p>
+<ul>
+  <li>Date: January 30th, 2021</li>
+  <li>Name: Ryan</li>
+  <li>Email: ryan.j.moore35@gmail.com</li>
+  <li>Website: <a href="https://blog.mooreanalysis.com/">blog.mooreanalysis.com</a></li>
+  <li>Entry: This is what your entry will look like!</li>
+</ul>
+</p>
+</code>
+</pre>
 
+Obviously this is going to be tedious at first. But I also don't expect to get that many
+entries - at least not initially. I am not overjoyed with this but it will have to do
+given my current time demands and skill level.
 
+If you have any feedback on this I look forward to hearing it!
 
 
 Day 12: #100DaysToOffload
