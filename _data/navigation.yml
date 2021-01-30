@@ -10,6 +10,9 @@
 - name: Contact
   link: /contact
 
+- name: Guestbook
+  link: /guestbook
+
 - name: GitHub
   link: https://github.com/RMoore35/jekyll-simple.css
 

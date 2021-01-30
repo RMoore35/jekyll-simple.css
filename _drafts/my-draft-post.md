@@ -1,67 +1,71 @@
 ---
-title: 10 Day Recap
-header: 10 Day Recap
-description: A quick recap of my first 10 days of #100DaysToOffload
+title: Guestbook
+header: Guestbook
+description: Making a guestbook for your Jekyll site in Simple.css
 permalink: /10-day-recap/
 layout: post
 ---
 
-This will be a quick recap of the first 10 days of #100DaysToOffload, as well
-as a brief summary of what I think happened this week.
+I wanted to do a guide on how to set up a guestbook page on a Jekyll/Simple.css, like mine.
 
-So far, this has been a fun challenge. I haven't focused too much on technology/privacy
-related topics, but I did do a review of <a href="https://blog.mooreanalysis.com/proton-mail/">
-Proton Mail</a>.
+For the purposes of this guide, I am going to assume you having a working Jekyll/Simple.css
+site and that you know your way around the terminal on a mac.
 
-More important than what I wrote about, however, is what happened this last week.
+First, you need to edit your navigation.yml file to include a link to the guestbook
+page. Remember that the navigation.yml file is in the _data folder. The code will look
+like this:
 
-Essentially, a couple of people on Reddit discovered that a couple of stocks were heavily
-shorted by a few hedge funds. They started buying up shares of $GME, mainly, and once
-the train started, it was hard to stop. General internet trolls joined in, as well as
-anti-capitalists, anarchists, and celebrities, from Dave Portnoy (of Barstool Sports fame)
-to Congresswoman AOC and Senator Ted Cruz.
+<pre>
+<code>
+- name: Guestbook
+  link: /guestbook
+</code>
+</pre>
 
-What really angered most was that <a href="https://robinhood.com/us/en/">Robinhood</a>,
-whose entire business seemed to be based on the premise of free and available equity
-trading for the masses, shut down buying on a few highly-volatile stocks. Buying was closed on Thursday, January 28th, but there were some reports that it was limited today as well.
+Once that is done, create a file called guestbook.md in your sites main folder.
 
-And this is where the story starts to tie into privacy and general open-internet principles.
+Next, I am just going to copy and paste the header from any one of my other page's .md
+files, in this case, from my contact.md file and modify it. Your guestbook.md file should look like this:
 
-For me, Robinhood is another example of a service focused around we - the users - as the product instead of the customer. I don't mean to disparage any of them by saying this, but I think
-we as the consumer often forget that they too, like every other business, are generally
-in it to make money.
+<pre>
+<code>
+---
+title: Guestbook | Ryan Moore
+header: Guestbook
+description: Leave a note for myself and others to see
+permalink: /guestbook/
+layout: default
+---
+</code>
+</pre>
 
-This doesn't exclude Robinhood or any other similar company from having strong core values and visions
-of what they can offer to better the global population. Rather, it is just a fact that
-they have investors and those investors care about profitability. Robinhood is no exception.
+Next, I'm going to add just a little bit of customization to the file, like so:
 
-In fact, what a lot of users and the public at large are just figuring out is that Robinhood's
-business model - at least in part - revolved around executing trades through a third-party. In other words, your data was being shared with companies other than Robinhood, and Robinhood was getting
-paid for it. Nothing new here.
+<pre>
+<code>
+---
+title: Guestbook | Ryan Moore
+header: 💬 Guestbook
+description: Leave a note for myself and others to see.
+permalink: /guestbook/
+layout: default
+---
 
-I don't want to get into speculation, so I will leave it at that.
+The online version of that book you sign at weddings and bourgie friends' houses when
+they have you over for dinner.
 
-Regardless, in general, if a service is free, we should always be asking why it is free.
-There is nothing wrong with free services - in fact, we have come to rely on many of them.
+Leave an entry of your own and/or read the entries left by others.
+</code>
+</pre>
 
-But often times, free means you are the product and your data is being shared far and wide. Some people are fine sharing everything. That is fine. Others, want to share only certain amounts. That is also fine, although it may mean you can't use certain services.
-
-And then there are those who don't want to take part in any data-sharing, data-harvesting, what
-have you, and would prefer to remain completely anonymous. That is fine too.
-
-What I'm getting at here is be aware. I'm not suggesting that I'm a soothsayer or anything,
-but I was well aware of Robinhood's practices. We all should educate ourselves about
-the services we use online and on our phones. You may be surprised at what you find.
-
-I did not, however, anticipate that they would restrict trading. But hey, it's 2021
-and we are in the midst of a global pandemic - anything is possible.
-
-It will be interesting to see how this saga unfolds. There seems to be widespread support
-for some movement against big money and what many see as a rigged system. But can they
-keep up the momentum?
+Next, I am going to build the form. For this, I am going to use the code from <a href="https://simplecss.org/demo">Simple.css</a>. I'm not going to copy the full code because it is long,
+but if you go to the demo guide, just scroll down to the form code.
 
 
-Day 11: #100DaysToOffload
+
+
+
+Day 12: #100DaysToOffload
 
 <img src="/assets/images/profilepic.jpg" />
 
