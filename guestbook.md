@@ -41,6 +41,8 @@ I hope to update this in the future to an easier system.
  <button type="submit">Submit</button>
 </form>
 
+Entries:
+
 {% for entry in site.guestbook %}
   <p><br>
   {{ entry }}<br>
