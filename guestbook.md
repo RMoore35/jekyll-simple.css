@@ -45,6 +45,9 @@ Entries:
 
 {% for entry in site.guestbook %}
   <p><br>
-  {{ entry }}<br>
+  {{ entry.Name }}<br>
+  {{ entry.Email}}<br>
+  {{ entry.Website }}<br>
+  {{ entry.Entry}}<br>
   </p>
 {% endfor %}
