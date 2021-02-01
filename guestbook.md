@@ -15,6 +15,7 @@ Leave an entry of your own and/or read the entries left by others.
 As of now, I will be manually reviewing and posting whatever you submit below the contact form.
 I hope to update this in the future to an easier system.
 
+<div style="background-color:black;color:white;padding:20px;border-radius:10px;">
 <form method="POST" name = "guestbook" data-netlify="true">  
  <p>  
    <label>Name*</label><br>  
@@ -31,24 +32,26 @@ I hope to update this in the future to an easier system.
  <p>  
    <label>Guestbook Entry*</label><br>  
    <textarea name = "guestbook-entry"></textarea>  
- </p>  
+ </p>
  <ul>
-   <li>Fields marked with * are required.</li>
-   <li>Your E-mail address won't be published.</li>
-   <li>Your entry will only be visible in the guestbook after I have reviewed it.</li>
-   <li>I reserve the right to edit, delete, or not publish entries.</li>
+   <li style="color:white;font-size:12px">Fields marked with * are required.</li>
+   <li style="color:white;font-size:12px">Your E-mail address won't be published.</li>
+   <li style="color:white;font-size:12px">Your entry will only be visible in the guestbook after I have reviewed it.</li>
+   <li style="color:white;font-size:12px">I reserve the right to edit, delete, or not publish entries.</li>
  </ul>
  <button type="submit">Submit</button>
 </form>
+</div>
 
 Entries:
 
 <p>
 <ul>
   <li>Date: January 30th, 2021</li>
+  <ul>
   <li>Name: Ryan</li>
-  <li>Email: ryan.j.moore35@gmail.com</li>
+  <li>Email: </li>
   <li>Website: <a href="https://blog.mooreanalysis.com/">blog.mooreanalysis.com</a></li>
   <li>Entry: This is what your entry will look like!</li>
-</ul>
+</ul></ul>
 </p>
