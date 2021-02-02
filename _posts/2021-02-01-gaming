@@ -29,27 +29,3 @@ In closing, this isn't to convince anyone else to stop gaming. Especially now, g
 I want to live my best life. If that means no more gaming, so be it.
 
 Day 14: #100DaysToOffload
-
-<img src="/assets/images/profilepic.jpg" />
-
-<ul>
-  <li>I've sailed across the Atlantic</li>
-  <li>I've been to Iceland</li>
-  <li>I've been skydiving</li>
-</ul>
-
-<a href="https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector">New Yorker.</a>
-
-<pre>
-<code>
-  require 'Faker'
-
-  $i = 0
-  $num = 15370
-
-  while $i < $num  do
-    puts Faker::Restaurant.name
-    $i +=1
-  end
-</code>
-</pre>
