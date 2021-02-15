@@ -1,36 +1,38 @@
 ---
-title: Question 6
-header: Question 6
-description: A ten day exploration of some interesting questions - Day 6
-permalink: /question6/
+title: Question 7
+header: Question 7
+description: A ten day exploration of some interesting questions - Day 7
+permalink: /question7/
 layout: post
 ---
 
-This is day 6 of 10 exploring some interesting questions. Feel free to start at the <a href="https://blog.mooreanalysis.com/question1/">beginning.</a>
+This is day 7 of 10 exploring some interesting questions. Feel free to start at the <a href="https://blog.mooreanalysis.com/question1/">beginning.</a>
 
-<h2> Day 6: What if I did the opposite in every area?</h2>
+<h2> Day 7: If I could only work for four hours this week, what would I work on?</h2>
 
-This is an interesting thought exercise. I immediately jump to conclusions when thinking about this and assume that most areas of my life would get much better and a few would get way worse.
+I personally don't like questions like this. I assume this is coming from, "The Four Hour Work Week", of which I am not a huge fan.
 
-That's probably not entirely accurate. There are clearly things I could do better. Every day I make mistakes and I try to do a little better in those areas the next day.
+I agree with parts of the idea. We waste a lot of time doing unnecessary things and could enjoy life a lot more if we didn't do those things.
 
-One interesting exercise relating to this is laid out in Derek Sivers' book, <a href="https://sive.rs/n">"Hell Yeah or No".</a>
+However, I am a believer that we have an innate desire to work - to do good, productive work. Obviously this looks different for everyone, but I don't think it looks like working 4 hours then sitting on a beach for the rest. Not only that, that lifestyle is simply not feasible for a lot of people.
 
-Disclosure: I own this book and am a big fan.
+It also doesn't look like working 100 hours per week, year after year after year.
 
-The idea is to basically say no to everything. In principle, you would then be free to do the things you want to do.
+So why make such an extreme suggestion?
 
-I don't agree with taking this to extremes. You could literally say no to everything and I'm not sure you would be better off for it. But personally, I have exercised this philosophy in several areas of my life and it has been beneficial.
+Well, for one, it is popular. We live in a world of extremes. Without getting too philosophical, we have a propensity to take things way too far. I'm not a historian, so I really don't know when this started. I assume that's it's been with us for a while: The Four Hour Work Week is just one example.
 
-So technically, if I said yes to all the things I have been saying no to recently, I'm pretty confident my life would be worse.
+Second, I think in some cases it makes people feel good. It's almost empowering to engage in extreme thinking or behavior.
 
-In other areas of my life though, the opposite may help. As I search for jobs, there is a lot I could do better and in fact may benefit from doing a 180 and pursuing it from a different angle.
+So perhaps a more practical approach to this question is to assume that for a reason outside of your control you CAN'T WORK more than 4 hours a week. Maybe you are caring for a sick loved one, or taking care of yourself.
 
-As I near when I need to get a job, this is in fact what I intend to do. Starting this week I am going to be making a lot of changes in my job search strategy. I am excited about this and look forward to what the future holds.
+In this case, I think I would spend at least an hour of that time building relationships. With so little time actually spent working, it would probably be critical to build relationships with the people you work with.
 
-For other parts of my life, I think I am doing OK. I want to really hone in on the areas where I was or am doing terrible and focus on those. Then, in the future, I can continue to work on other, less problematic areas.
+Second, I would probably spend the rest of the time doing the rest of the things I was being paid to do. The coding, the writing, the business plans, proposals, sales, etc. I would probably leave a little time at the end to update my boss on my progress but that may be included in the relationship building time.
 
-Day 24: #100DaysToOffload
+OK, I don't want to bash The Four Hour Work Week too much. I'm sure it has helped some people have a better relationship with their work and that's a good thing. I just don't think 4 hours should be the goal. The goal should be, in short, to have a better balance. That looks different for everyone.
+
+Day 25: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" width="40"/></a>
 
