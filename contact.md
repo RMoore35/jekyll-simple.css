@@ -6,11 +6,9 @@ permalink: /contact/
 layout: default
 ---
 
-The best way to reach me is via email. I can be reached at either of the following:
+The best way to reach me is via email. I can be reached at the following:
 
-ryan.j.moore35@gmail.com
+<a href="mailto:charmingsparks@protonmail.com">charmingsparks@protonmail.com</a>
 
-mooreanalysis35@gmail.com
-
-<p>Alternatively, you can navigate to my professional porfolio and fill in a contact form
+<p>Alternatively, you can fill in a contact form on my professional portfolio
 <a href="https://www.mooreanalysis.com/contact/">here.</a></p>

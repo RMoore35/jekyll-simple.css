@@ -1,38 +1,16 @@
 ---
-title: Question 8
-header: Question 8
-description: A ten day exploration of some interesting questions - Day 8
-permalink: /question8/
+title: Question 10
+header: Question 10
+description: A ten day exploration of some interesting questions - Day 10
+permalink: /question9/
 layout: post
 ---
 
-This is day 8 of 10 exploring some interesting questions. Feel free to start at the <a href="https://blog.mooreanalysis.com/question1/">beginning.</a>
+This is day 10 of 10 exploring some interesting questions. Feel free to start at the <a href="https://blog.mooreanalysis.com/question1/">beginning.</a>
 
-<h2> Day 8: How could I achieve my 10-year goals in six months?</h2>
+<h2> Day 10: What would I do if it was impossible for me to fail?</h2>
 
-How could I achieve my 10 year goal in 6 months?
-
-This is an interesting question. Sometimes it is fun to think in terms of optimization. On my last post, I was very critical of the concept of a four hour work week. So now, to be advocating for optimization may seem hypocritical.
-
-Let me first point out that my critique of that was more based on making things to extreme. In that sense, I don't like this question anymore than I do yesterdays.
-
-But I do think it is helpful to think about optimizing our time. Not just for the sake of optimizing, because that is an easy trap to fall into, but to achieve what you want to achieve and to enjoy life along the way.
-
-As I'm currently embarking on a career change, there are some hard skills that are important in that career. Those are the things I think I can really focus on. None of those skills are necessarily easy. I am proficient at some of the things I need to know, others I have to continue to work on.
-
-The other skills to get to my 10 year goal are more based on soft skills. These aren't as easily learned.
-
-The good news is that you are never really an expert in soft skills - at least in my opinion. You will of course get better at these things over time. Things like leadership, patience, communication, and teamwork are developed over an entire lifetime.
-
-That's good news because you can often find that you are "good enough".
-
-I don't say that to encourage complacency but rather for others, and myself, to know that we can get to where we want to go with a lot of the skills we already have.
-
-In terms of improving soft skills, I think things like building better relationships, mentoring, and reading solid books can all make a big difference.
-
-Personally, I think it will also be important for me to learn how to advocate for myself better. In my last job, promotions were pretty secure and at regular intervals. Now that I am venturing into a new world, I will have to learn how to navigate a new system and ask for promotions and raises.
-
-Day 26: #100DaysToOffload
+Day 28: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" width="40"/></a>
 
