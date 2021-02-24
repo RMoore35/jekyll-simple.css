@@ -8,7 +8,7 @@ layout: default
 
 
 <p>You can read about my professional life and experience on my
-<a href="https://www.mooreanalysis.com/">professional portfolio.</a></p>
+<a href="https://www.mooreanalysis.com/" target="_blank">professional portfolio.</a></p>
 
 But who am I?
 

@@ -11,7 +11,7 @@ they have you over for dinner.
 
 Leave an entry of your own and/or read the entries left by others.
 
-* This form uses <a href="https://www.netlify.com/">Netlify</a> for form handling.
+* This form uses <a href="https://www.netlify.com/" target="_blank">Netlify</a> for form handling.
 As of now, I will be manually reviewing and posting below the contact form.
 I hope to update this in the future to an easier system.
 

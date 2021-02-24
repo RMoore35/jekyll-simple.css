@@ -1,58 +1,46 @@
 ---
-title: Github Auth Changes
-header: Github Auth Changes
-description: How to change your CLI to accommodate 2FA requirements on Github
-permalink: /github-auth/
+title: HTML/CSS Project
+header: HTML/CSS Project
+description: Building my first website completely from scratch
+permalink: /html-css-project/
 layout: post
 ---
 
-It has been in the works for some time, but I kept procrastinating adding 2FA to my Github. Here is the official announcement from Github:
+This will be the first post in a series of posts outlining my journey from index.html to a full-fledged website.
 
-<a href="https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/">https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/</a>
+Obviously, there will be many steps in-between. I may not even finish it this year or this #100DaysToOffload cycle. But I want to stick with it.
 
-OK, great. I'm not going to walk through how to set-up 2FA. It is very easy to do through the settings on your Github profile.
+** <b>Note:</b> <i>This will not be a continuous series. I will be posting content on this sporadically.</i>
 
-What is not as self-explanatory (but still easy), is once enabled, how you use the CLI to perform common Git operations (pull, push, etc.)
+So, what made me want to do this?
 
-See, once you enable 2FA and then try to use terminal, you will get an error:
+Well, I started this blog over a month now. I have really enjoyed it. I have little to no regrets.
 
-<img src="/assets/images/github-auth-1.jpg" />
+But now that I've really gotten into it, I have realized how much I enjoy it. I want to keep deepening my knowledge and explore new areas.
 
-OK, so now we need to fix this. To do so, we will generate a personal access token.
+I want to live a life well lived, one of continuous growth and lifelong learning.
 
-** Note: this is a guide for mac. **
+What better way to do that than to build a website from scratch??
 
-First, navigate over to the settings page of your Github profile.
+There are a few other things in my life that more specifically are leading me to do this and maybe I will share more about those in the future. But for now, let's dive right in.
 
-Next, click on the developer settings on the left side navigation menu:
+One of the first resources I found was <i>HTML & CSS</i> by Jon Duckett. I chose not to purchase it, but I used a few of the code samples to get started. I honestly didn't know a few of the things that were just on the sample pages...
 
-<img src="/assets/images/github-auth-2.jpg" />
+Here is a first look:
 
-Next, select personal access tokens:
+<img src="/assets/images/new-site.jpg" />
 
-<img src="/assets/images/github-auth-3.jpg" />
+A few useful resources I've found so far:
 
-Next, select generate new token:
+<ul>
+  <li><a href="https://www.colorschemer.com/css-color-codes/" target="_blank">Color Picker</a></li>
+  <li><a href="https://www.w3schools.com/howto/default.asp" target="_blank">W3Schools. Simple resource</a></li>
+  <li><a href="https://htmlcheatsheet.com/css/" target="_blank">html/css cheat sheat</a></li>
+</ul>
 
-<img src="/assets/images/github-auth-4.jpg" />
+I look forward to keeping everyone updated on my progress.
 
-Then, we will give our personal access token a name. I chose something simple:
-
-<img src="/assets/images/github-auth-5.jpg" />
-
-Finally, we need to select the scope of this token. For git push, pull, etc., we only need to select the top option:
-
-<img src="/assets/images/github-auth-6.jpg" />
-
-Once that is done, copy the access token. Now, we can navigate back to the terminal. Once there, try another git push/pull. You should get the same error. Without closing the terminal, run the same command again. This should bring up the validation in your terminal. Now, you can enter your username and for password, use the access token you just generated.
-
-<img src="/assets/images/github-auth-7.jpg" />
-
-And, voilà! You should be all set.
-
-I hope this helps someone.
-
-Day 30: #100DaysToOffload
+Day 31: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" width="40"/></a>
 
