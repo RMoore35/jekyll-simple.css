@@ -33,7 +33,7 @@ A quick web-search later and I discovered feedparser. Here is what it looks like
       lst = []
       for tag in tags[1:]:
           lst.append(tag.string)
-          
+
       s = ' '.join(map(str, lst)).rstrip().replace("\'", "")
       new_title = key.title.split(",")
       top3_dict = {"title":new_title[0],"link": key.link,"description":s}
@@ -53,27 +53,3 @@ The next step will be to read that .txt file with PHP and add that to the html f
 Day 33: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
-
-<img src="/assets/images/profilepic.jpg" />
-
-<ul>
-  <li>I've sailed across the Atlantic</li>
-  <li>I've been to Iceland</li>
-  <li>I've been skydiving</li>
-</ul>
-
-<a href="https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector">New Yorker.</a>
-
-<pre style="line-height:.9;">
-<code style="font-size:15px;">
-  require 'Faker'
-
-  $i = 0
-  $num = 15370
-
-  while $i < $num  do
-    puts Faker::Restaurant.name
-    $i +=1
-  end
-</code>
-</pre>
