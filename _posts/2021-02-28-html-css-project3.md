@@ -57,37 +57,3 @@ I am really happy with how this is coming together. I will most likely start loo
 Day 34: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
-
-<img src="/assets/images/profilepic.jpg" />
-
-<ul>
-  <li>I've sailed across the Atlantic</li>
-  <li>I've been to Iceland</li>
-  <li>I've been skydiving</li>
-</ul>
-
-<a href="https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector">New Yorker.</a>
-
-<pre style="line-height:.9;">
-<code style="font-size:15px;">
-  require 'Faker'
-
-  $i = 0
-  $num = 15370
-
-  while $i < $num  do
-    puts Faker::Restaurant.name
-    $i +=1
-  end
-</code>
-</pre>
-
-<pre style="line-height:1;">
-<code style="font-size:15px;">
-  &lt;div class="main"&gt;
-    &lt;h2><b>Most Recent Reviews</b></h2&gt;
-    &lt;?php $lines = file('top3.txt');
-    foreach($lines as $line){echo $line;}?><br&gt;
-  &lt;/div&gt;
-</code>
-</pre>

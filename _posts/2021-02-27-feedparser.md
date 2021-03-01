@@ -44,11 +44,13 @@ A quick web-search later and I discovered feedparser. Here is what it looks like
 
 Note: This is kinda messy right now. I write things very rough at first, then I condense them down. I hope I'm not alone in this :)
 
+Another note: I ended up using BeautifulSoup for a little bit of the code, as feedparser didn't seem to handle the description tag very well, I think due to the way the Letterboxd rss feed is formatted. Since I won't be using this code for anything else I wasn't that worried about making it one-size-fits-all.
+
 But what that little snippet does is finds the title of my three favorite films in the feed, as well as the url and the description of my review. I then write each on a new line in a txt file.
 
 I also use very similar code to pull lists of every film I have watched for my favorite actresses/actors.
 
-The next step will be to read that .txt file with PHP and add that to the html for my site. Exciting stuff.
+The next step will be to read that txt file with PHP and add that to the html for my site. Exciting stuff.
 
 Day 33: #100DaysToOffload
 
