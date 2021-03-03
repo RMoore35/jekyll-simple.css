@@ -18,7 +18,7 @@ This new site has, among other things, a list of my three most recent reviews th
 
 So, those lists and reviews will now be (mostly) automatically updated!
 
-I say mostly because I have to manually run a python script. This is something I will be looking at improving this in the future. I'm sure there is a way to automate this. I can either automate the python script to run at a certain time each day or I can learn more php so that I can parse the RSS feed from Letterboxd in PHP instead of python.
+I say mostly because I have to manually run a python script. This is something I will be looking at improving in the future. I'm sure there is a way to automate this. I can either automate the python script to run at a certain time each day or I can learn more php so that I can parse the RSS feed from Letterboxd in PHP instead of python.
 
 Currently, my python script writes html into a txt file that I then read in php and post to my site. The php code looks like this:
 
