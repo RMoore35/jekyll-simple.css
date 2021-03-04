@@ -6,9 +6,8 @@ permalink: /about/
 layout: default
 ---
 
-
-<p>You can read about my professional life and experience on my
-<a href="https://www.mooreanalysis.com/" target="_blank">professional portfolio.</a></p>
+You can read about my professional life and experience on my
+<a href="https://www.mooreanalysis.com/" target="_blank">professional portfolio.</a>
 
 But who am I?
 
@@ -21,7 +20,6 @@ I love good coffee with good friends.
 I am a growing privacy and open source advocate and I look forward to exploring
 this more in the future.
 
-If you have any questions or feedback, please feel free to head over to my contact
-page and I'll get back with you as soon as I can.
+If you have any questions or feedback, please feel free to head over to my <a href="https://blog.mooreanalysis.com/contact/">contact page</a> and I'll get back with you as soon as I can.
 
 Cheers!
