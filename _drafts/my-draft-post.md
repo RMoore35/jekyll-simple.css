@@ -1,89 +1,43 @@
 ---
-title: Terminal Commands
-header: Terminal Commands
-description: The terminal commands you need to know
-permalink: /terminal-commands/
+title: Favorite Tech
+header: Favorite Tech
+description: One of my (previously) most used pieces of tech that was also cheap!
+permalink: /favorite-tech/
 layout: post
 ---
 
-Over the last few years, I have started to become a bit of a tech nerd. I never used to be.
+I used to get a ton of use out of one particular piece of tech. It's sleek, waterproof, portable, and pretty cheap.
 
-I remember growing up I sort of made fun of nerds, specifically anyone involved with anything computer related. I don't really know why. I guess part of it was I grew up in the middle of nowhere and we just did more outdoor things, not that they are mutually exclusive.
+Enter: <a href="https://www.bestbuy.com/site/logitech-keys-to-go-super-slim-and-super-light-bluetooth-keyboard-for-iphone-ipad-and-apple-tv-black/9483417.p?skuId=9483417">Logitech Keys to Go</a>
 
-Now that I am in this tech world, I love it and wished I would have gotten in sooner. Seriously. I can't imagine the things I would have known if my interest would have started earlier.
+**Links to BestBuy site - not an endorsement/paid link.
 
-But I can't get back time and honestly I don't have any regrets.
+This little keyboard is seriously fun to use. It doesn't provide the level of joy that a mechanical keyboard does (which I've only used once, but is high on my priority list once I get my home office set up), but it works. And well, at that.
 
-Anyway, now I am here, writing on my blog, and trying to share a little bit of knowledge and of course learn as much as I can.
+So what do I use it for?
 
-Playing around in the terminal can be a fun experience. I don't know what it was like in the early days of computers. I wasn't around. But I do know that it now seems like no one uses the terminal.
+Well, to be honest, I now only use it for random writing. Occasionally I will go to a coffee shop and I don't feel like taking my laptop. So, on my way out the door, all I have to grab is my tablet (currently an iPad - Oh, the horror!) and my Keys to Go.
 
-Obviously some people do - and I'm one of them. And so, I wanted to give anyone not familiar my opinion of five of the most common commands and how to use them.
+It's also perfect for a coffee shop because it's waterproof. Genius.
 
-Note: I primarily use my mac and have only just begun using linux. I also do have a windows machine but can't really comment if these things translate over. I primarily use my windows machine for SQL and R and do almost nothing using the command line. So this guide will focus on the Mac Terminal.
+But, that sounds lame when I promised this thing that I use all the time!
 
-Bonus: You can hit command + spacebar (which brings up spotlight) and start typing Terminal, then press enter for a quick way into the Terminal.
+So, the real use case for me was in my last job. I was in the car for over 3 hours ever day (1.5 hours each way) with about 2-3 hours of work on-site in-between. I actually enjoyed the work, but the frustrating part was getting back to the office and knowing I still had an hour or two of paperwork to do.
 
+Keys to Go was a life-saver. All I had to bring was my iPad and the slim Keys to Go and I could cut that time nearly in half. It's hard to put in words how much of a quality of life improvement this was. But suffice it to say, it was.
 
-<h4>First and arguably the most important command is:    cd </h4>
+OK, but seriously, I'm not trying to endorse this product; just trying to highlight a relatively cheap, easy piece of tech that I have gotten a lot of mileage out of.
 
-Why? because you can't execute commands in a directory if you can't get into that directory.
+It's still fun to use. Like I said, I now use it to write. I can turn off all notifications on my iPad, put on some music, and just write for a while.
 
-So what does "cd" do? Once Terminal opens, type cd, followed by the directory or folder you want to move to. You can hit tab at any point and the Terminal will auto-fill the rest of the name, if what you have typed is unique enough.
+I enjoy writing. It's one of the reasons I started this blog. And anything that encourages me to write more is a win in my book.
 
-But how do you know what directories exist in your current directory?
-
-
-<h4>The second command is:   ls </h4>
-
-"ls" will give you a list of all files and directories in your current directory. There are other commands you can chain after ls, but just knowing ls is enough for now.
+There is also something to be said for good old fashioned pencil and paper. But that is another post for another day.
 
 
-<h4>The third "command" is added onto cd to move up to the parent directory. Adding: ..</h4>
+**Note: when I bought this it was under $50. Not sure I would pay $70 for it...
 
-after cd allows you to move up to the parent directory. So, the full command is
-
-cd ..
-
-Coincidentally. you can move up as many levels as there are directories. So for two levels, it would be:
-
-cd ../..
-
-And you can keep going by adding another "/.."
-
-
-<h4>The fourth command is: mkdir </h4>
-
-This command makes a subdirectory in the current directory and thus is followed by a name:
-
-mkdir test-directory
-
-You can then cd into this directory and do whatever you want. But what if you made a mistake? You can simply do:
-
-rm -R test-directory
-
-
-<h4>Finally, the fifth command is:  cp</h4>
-
-"cp" is your basic copy command. For example, I can make a copy in my current directory like so (original name followed by new name):
-
-cp build.sh test-build.sh
-
-But I've actually hardly even run into that situation. More often than not, I have needed to copy to a new folder. That can be done like so (file name followed by directory where you want to copy):
-
-cp build.sh test-directory
-
-And to practice, what if I made a mistake and I want to delete that directory?
-
-rm -R test-directory.
-
-Note: in the Terminal, this gives no warning, so if you are moving/copying a bunch of files, proceed with caution. Also, the move command is similar (mv &lt;file&gt; &lt;dir&gt;) and I use as often if not more.
-
-Finally, I will leave you with this: when I was working as a back-end developer, the most frequent thing I did in the terminal, besides cd, was to use the up arrow to bring up the last command. I would make a mistake, an error would pop up, and after fixing, all I had to do was arrow up until I brought up the command I needed to run again.
-
-I feel like I am only getting started with the terminal. As a new linux user, I will admit that I am absolutely overwhelmed by the possibilities. But the commands above will give you a solid start. And... make all of your friends think you are a nerd.
-
-Day 36: #100DaysToOffload
+Day 37: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
 

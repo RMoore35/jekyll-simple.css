@@ -14,7 +14,7 @@ Now that I am in this tech world, I love it and wished I would have gotten in so
 
 But I can't get back time and honestly I don't have any regrets.
 
-Anyway, now I am here, writing on my blog, and trying to share a little bit of knowledge and of course learn as much as I can.
+Anyway, now here I am, writing on my blog, and trying to share a little bit of knowledge and of course learn as much as I can.
 
 Playing around in the terminal can be a fun experience. I don't know what it was like in the early days of computers. I wasn't around. But I do know that it now seems like no one uses the terminal.
 
@@ -77,7 +77,7 @@ And to practice, what if I made a mistake and I want to delete that directory?
 
 rm -R test-directory.
 
-Note: in the Terminal, this gives no warning, so if you are moving/copying a bunch of files, proceed with caution. Also, the move command is similar (mv &lt;file&gt; &lt;dir&gt;) and I use as often if not more.
+Note: in the Terminal, this gives no warning, so if you are moving/copying a bunch of files, proceed with caution. Also, the move command is similar (mv &lt;file&gt; &lt;dir&gt;) and I use it as often if not more.
 
 Finally, I will leave you with this: when I was working as a back-end developer, the most frequent thing I did in the terminal, besides cd, was to use the up arrow to bring up the last command. I would make a mistake, an error would pop up, and after fixing, all I had to do was arrow up until I brought up the command I needed to run again.
 
