@@ -7,7 +7,7 @@ layout: post
 ---
 
 I wanted to provide a quick addition to the excellent post from
-<a href="https://kevq.uk/how-to-remove-the-html-extension-from-a-url/">Kev Q</a>
+<a href="https://kevq.uk/how-to-remove-the-html-extension-from-a-url/" target="_blank">Kev Q</a>
 about removing the HTML extension from your website URL.
 
 As outlined there, this can be a common and ugly issue. In fact, the most recent site I built,
