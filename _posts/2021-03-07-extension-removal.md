@@ -11,7 +11,7 @@ I wanted to provide a quick addition to the excellent post from
 about removing the HTML extension from your website URL.
 
 As outlined there, this can be a common and ugly issue. In fact, the most recent site I built,
-<a href="https://moore-films.netlify.app/">Moore Films</a> had the issue until I read his blog and remembered to check it.
+<a href="https://moore-films.netlify.app/" target="_blank">Moore Films</a> had the issue until I read his blog and remembered to check it.
 
 You can follow the steps in Kev Q's blog post. He obviously knows what he's talking about.
 
