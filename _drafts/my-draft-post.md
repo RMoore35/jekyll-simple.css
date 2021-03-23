@@ -1,39 +1,34 @@
 ---
-title: Clean
-header: Clean
-description: The importance of a cleaning routine for tech and life
-permalink: /clean/
+title: Civility
+header: Civility
+description: The case for more human interactions online
+permalink: /civility/
 layout: post
 ---
 
-This post will be a bit philosophical: think Zen and the Art of Motorcycle Maintenance.
+This is a post I've been meaning to write for some time. As I stumbled through this last week and had both good and bad interactions, both online and in real life, I figured this was the right time. I also, against my own rules, been reading a bit of online banter.
 
-Recently, I was going through the process of cleaning up my Macbook Air. I know, what a hack.
+Well, the title pretty much tells you where I am going with this.
 
-I always enjoy purging old files, unneeded applications, and taking a look at old things that I don't even remember doing!
+Civility.
 
-I also almost always learn something along the way. This time, I learned the "git gc" command. Turns out that I had a folder in my home directory that was a git folder with a size of 11G! What the heck was in there? I had no idea. I didn't want to dig through all the files. So, after a quick web search, I just figured, what the hell, and I ran git gc.
+That's a word we probably don't use near as often as we should. And that's troubling. Where did it go? Were we ever civil?
 
-That 11G parsed down to around 15MB. Whoa?!
+I'm not sure we were. At the very least, the argument can be made that there were always people that were nasty to each other. There is some truth to that.
 
-So, I think what happened was I either cloned a bunch of repos back in the day in the wrong folder or it was just a combination of old repos that I didn't need anymore.
+I also want to mention people aren't nice in general. Remember when we used to have duels over disagreements??
 
-So, where is the philosophical part of this?
+But I don't think anyone will deny that the way we tend to engage online is drastically different than we would engage in-person. On its face, that's OK. And really, there should be some difference because at its core, it's just a different venue. You would engage with someone different at the store than you would at a political rally.
 
-Well, recently, I have been reminded of the value of cleaning in life. I now have re-established seemingly meaningless cleaning habits but ones that I believe make a huge difference:
 
-1. I was my bedding once a week. There are few better feelings than fresh sheets and if you aren't doing this I highly recommend it.
 
-2. I vacuum my room nearly every day. This seems silly, I know. But there is something about walking on freshly vacuumed carpet.
-
-That second one is interesting. It's almost like cleaning for cleanings sake. There is really no reason for me to be vacuuming my room every single day. But there is something mental that happens. I think it's a combination of knowing that it's really clean and knowing that I am taking care of myself. There are other things going on in my mind, that I am well aware of.
-
-I'm curious: Do you have a cleaning routine? Silly things you do that feel really good? This is an interesting idea that I want to explore more in the future.
-
-Day 44: #100DaysToOffload
+Day 45: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
 
+Recently I was going about updating my <a href="https://moore-films.netlify.app/">film-reviews site</a> and there were a lot of changes I needed to make. One of them was understanding spacing and how to best achieve it in what is often a mobile-first world.
+
+One the first iteration of my blog, with maybe one exception, I was using pixels to space everything and size my text.
 <!--
 
 #image:
