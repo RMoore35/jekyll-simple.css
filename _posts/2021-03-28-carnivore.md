@@ -2,7 +2,7 @@
 title: Carnivore Diet
 header: Carnivore Diet
 description: The start of my journey on one month of the carnivore diet
-permalink: /carnivore1/
+permalink: /carnivore/
 layout: post
 ---
 
@@ -27,6 +27,6 @@ OK, that's it for today.
 
 Cheers!
 
-Day 46: #100DaysToOffload #
+Day 46: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
