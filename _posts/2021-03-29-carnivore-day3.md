@@ -1,7 +1,7 @@
 ---
 title: Carnivore Diet - Day 3
 header: Carnivore Diet - Day 3
-description: The start of my journey on one month of the carnivore diet
+description: Carnivore Diet Update - Day 3
 permalink: /carnivore-day3/
 layout: post
 ---
