@@ -8,7 +8,7 @@ layout: post
 
 This is day 4 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore1/).
 
-##Update - Day 4
+## Update - Day 4
 
 Still cranking through this. Tried cooking pork belly for the first time yesterday and it was terrible. Not sure if I didn't cook it long enough but the fat just wasn't good. Might also just be a personal taste thing. Ended up cooking some extra bacon to make up for it.
 

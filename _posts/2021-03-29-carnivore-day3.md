@@ -8,7 +8,7 @@ layout: post
 
 This is day 3 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore1/).
 
-##Update - Day 3
+## Update - Day 3
 
 So far so good on this nice, cool morning. I am enjoying some nice variety this week including fish, chicken, bacon, and other pork, which will change in the coming weeks. I'll have to make sure I mix it up with other seasonings and flavors as I transition to all beef in the coming weeks.
 
