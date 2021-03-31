@@ -10,7 +10,9 @@ This is day 5 of my 30 days of the carnivore diet. You can start from the beginn
 
 ## Update - Day 5
 
+Most important update: finally got rid of some waste out the other end.
 
+Other than that, things are going well. Very low energy today but I read that is to be expected as you start the diet. No worries here just need to get through it.
 
 Day 49: #100DaysToOffload
 
