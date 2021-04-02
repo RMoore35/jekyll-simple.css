@@ -6,7 +6,7 @@ permalink: /carnivore-day3/
 layout: post
 ---
 
-This is day 3 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore1/).
+This is day 3 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
 
 ## Update - Day 3
 

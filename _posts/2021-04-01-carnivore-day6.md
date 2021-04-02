@@ -2,11 +2,11 @@
 title: Carnivore Diet - Day 6
 header: Carnivore Diet - Day 6
 description: Carnivore Diet Update - Day 6
-permalink: /carnivore-day5/
+permalink: /carnivore-day6/
 layout: post
 ---
 
-This is day 6 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore1/).
+This is day 6 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
 
 ## Update - Day 6
 

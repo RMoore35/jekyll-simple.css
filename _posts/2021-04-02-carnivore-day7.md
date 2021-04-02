@@ -2,11 +2,11 @@
 title: Carnivore Diet - Day 7
 header: Carnivore Diet - Day 7
 description: Carnivore Diet Update - Day 7
-permalink: /carnivore-day5/
+permalink: /carnivore-day7/
 layout: post
 ---
 
-This is day 7 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore1/).
+This is day 7 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
 
 ## Update - Day 7
 
