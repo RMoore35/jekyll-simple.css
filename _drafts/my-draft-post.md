@@ -10,6 +10,9 @@ This is day 8 of my 30 days of the carnivore diet. You can start from the beginn
 
 ## Update - Day 8
 
+Was able to complete a 54 mile bike ride today! Had pretty good energy throughout, but was really drained as I neared the end. I don't think this was diet related, just the fact that I haven't done that distance in a while.
+
+Otherwise, carnivore diet is going great!
 
 Cheers!
 
