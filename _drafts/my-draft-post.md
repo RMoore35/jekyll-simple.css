@@ -1,20 +1,20 @@
 ---
-title: Carnivore Diet - Day 11
-header: Carnivore Diet Update - Day 11
+title: Carnivore Diet - Day 12
+header: Carnivore Diet Update - Day 12
 description: Diet Update
-permalink: /carnivore-day11/
+permalink: /carnivore-day12/
 layout: post
 ---
 
-This is day 11 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 12 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
 
-## Update - Day 11
+## Update - Day 12
 
-Continue to have trouble with my bowels. I am really trying to push through it but this fact alone is enough to make me not suggest this diet to anyone. Unless your doctor recommends it or you are a psycho like me...
+Have had liver now for several days in a row. I enjoy it but it's hard when you are only eating meat. I've had liver before with other things but it's kinda difficult to get down on it's own. I have continued to try to add more fat to balance out my bowels but so far haven't had much success.
 
 Cheers!
 
-Day 55: #100DaysToOffload
+Day 56: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
 
