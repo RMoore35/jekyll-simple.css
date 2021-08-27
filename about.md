@@ -6,11 +6,6 @@ permalink: /about/
 layout: default
 ---
 
-You can read about my professional life and experience on my
-<a href="https://www.mooreanalysis.com/" target="_blank">professional portfolio.</a>
-
-But who am I?
-
 I like to be active. I love any excuse to stop what I'm doing and go outside.
 
 I enjoy any form of exercise (mainly cycling, lifting, and running), reading, and classic films.
