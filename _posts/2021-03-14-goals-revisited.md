@@ -8,7 +8,7 @@ layout: post
 
 This post is more for myself than others. But if you can get something from this, be my guest.
 
-When I fist started this blog, I wrote two similar posts: one on [Covid](https://blog.mooreanalysis.com/covid/) and the other on general [goal setting](https://blog.mooreanalysis.com/goals/).
+When I fist started this blog, I wrote two similar posts: one on [Covid](https://rmooreblog.netlify.app/covid/) and the other on general [goal setting](https://rmooreblog.netlify.app/goals/).
 
 Both of those posts were important for me to write. I picked up quite a few bad habits over Covid and in general, I need to get better about goal setting.
 

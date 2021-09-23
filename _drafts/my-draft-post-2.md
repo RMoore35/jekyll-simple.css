@@ -1,37 +1,33 @@
 ---
-title: Lessons Learned
-header: Changing account information
-description: Why changing your email is such a pain and why we need security standards
-permalink: /lessons-learned/
+title: Goals Revisited - Again
+header: Goals Revisited - Again
+description: An update on goals and a bit of a life reset
+permalink: /goals-revisted-again/
 layout: post
 ---
 
-If you're reading this you've most likely followed my progress on Fosstodon, a Masstodon instance for everything FOSS. On there, I have posted several times over the past few months about funny and sometimes annoying things I've came across while trying to move away from gmail. With a change in email address comes having to update, for me, numerous accounts (around 100) because my online presence is way too big.
+Recently I have had a few life changes, some positive and some negative. For me, that is always a good time to regroup and get some thoughts down. In fact, I think it is essential for my mental health.
 
-Put simply, it is often no small task to change account information. While some sites make it very simple, sometimes scarily so, others make it nearly impossible to change the email address linked to your profile. And yet others, you can't change the email at all. Or, maybe you can, but customer service never got back to me. Here are the top three problems I ran into.
+As a quick reminder, I have a series of posts on goals and updates. They can be found at the end of this post.
 
-## 1: Email verification link sent to both old and new email address
+The past few months have been strange but I've said that before. One of my goals for this year was to run a competitive 5k. Unfortunately, I had a foot injury fairly quickly after I set that goal and ended up not running for about 6 months. I finally got it checked this past week and am hoping for no fractures, although I need some resolution. In the meantime, the doc put me on some treatments that hopefully will heal it quickly if not fractured.
 
-For me, this was an issue. I was trying very hard to keep google from knowing my final personal email address. While there are a couple of ways to accomplish this, I chose to use an intermediate protonmail address that I would change to once, delete my gmail address from all my profiles, and change it again. Unfortunately, I ultimately failed, because it turns out that some sites continue to send email to your FIRST REGISTERED EMAIL, even after you switch it multiple times, including a cc to your new email address. I honestly can't think of a reason to do this. And mind you, this never happened with a bank account or an account with a similar level of security, but rather just some stupid site I had subscribed to. Regardless, I see the security purpose of this. In fact, I would prefer if a notification was sent to my old and new email address. But once I change it again, I didn't expect this behavior. Strange.
+I also set a goal of reading 12 books in 12 months. I am happy to note that I am 8 books in and am about to finish my ninth so I am close to my goal. My pace of reading is picking up as I shift time away from other "hobbies".
 
-## 2: Must visit in-person to change account information
+I put hobbies in quotations because I'm spending a lot of time thinking about my numerous hobbies. I try to squeeze as much into my days as possible. I like staying busy and I enjoy doing a wide-range of things. But I am trying to be increasingly conscious of if I am wasting any time without becoming OCD about it. It bothers me when I have stated that I don't think gaming is a good use of time but I can't seem stop this endless cycle of binge-purge. I download a game or emulator, binge it for hours a day for about a week, only to delete it in frustration.
 
-This is not a joke. One of the last accounts I changed literally sent me an email stating account information could only be changed in-person. What?! I'll just go ahead and reveal that this was a hotel loyalty program. I was honestly baffled. I had no idea what to do with this, so I just sent a nasty email to customer service and then deleted my account.
+This is really about moderation - something I have always been pretty bad at. One thing I'm trying to do to help this is just some simple deep breathing and mindfulness activities. Without getting too touchy-feely, I have found that some deep breathing and pondering throughout the day really helps me get to where I want to be in terms of overall health.
 
-## 3: No additional security measures to change email address
+I also had a pretty drastic life-happening this past week and now I'm trying to decide what to do with my extra time. For now, I want to devote much of it to reading and playing guitar. However, considering the purchase of a Raspberry Pi means I need to learn about that and see if that's something I want to do. It doesn't sound like it involves much tinkering time so it will probably happen soon.
 
-This might be a little paranoid on my part, but I'm not sure I like that this happened more than once. I was able to successfully change my account information on several different accounts without any email or text notice or requirement to enter my password again.
+I hope at least some of the above helps someone with their current life thoughts and/or struggles.
 
-## Final thoughts
-
-I have lots of other fun stories from what has taken around a year to complete but I won't go into all of them. Note: this doesn't actually take a year to accomplish but I set a goal of changing a few accounts a week. I didn't want to sit at my computer for 12 hours and just knock them all out at once.
-
-But the point of this is to show that I am a little alarmed that there is not some sort of standard. First, the number of accounts I had serious trouble changing (not because of hoops to jump through, but because of glitches or requirements to reach out to customer service) was way too high. I wish I could say all of these were dumb little subscription accounts and email lists but no, there were banks, ecommerce sites, and airlines on this list as well. This is not at all comforting to me.
-
-Why is there no standard?
-
-I'll let you answer that. I'm not smart enough.
-
-Day 62: #100DaysToOffload
+Day 63: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
+
+[Covid Weight Gain/Goals](https://rmooreblog.netlify.app/covid/)
+
+[High-Level Goal Setting](https://rmooreblog.netlify.app/goals/)
+
+[Goals - Revisted](https://rmooreblog.netlify.app/goals-revisited/)
