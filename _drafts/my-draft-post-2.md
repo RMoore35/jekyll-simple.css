@@ -1,5 +1,5 @@
 ---
-title: Test post
+title: Test again
 header: Why I love linux
 description: A brief discussion of my growing love for linux
 permalink: /love-linux/
