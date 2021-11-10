@@ -1,25 +1,25 @@
 ---
-title: Life Update 3643
-header: Life Update 3643
-description: A nice, fall update from my oasis in the not too temperate climate where I live
-permalink: /life-update-3643/
+title: Neofetch
+header: Neofetch
+description: A first time for everything
+permalink: /neofetch/
 layout: post
 ---
 
- I mentioned a few days over on Fosstodon that I had several challenges in the works for November. 
+This post outlines a very basic tool: neofetch. I have seen this tossed around via screenshot and comments numerous times on Fosstodon but haven't take the time to even download it - until now.
 
- While, one of them I certainly have the ability to accomplish since I started on November 1st. My other challenge, to write on this blog is going good. To quote one of my favorite comedians, "And when I say it's going good I mean 'AHHHHHHH!!'".
+To download it, I justed used the software manager in Mint. I don't normally do that but hey, the GUI is there so why not use it?
 
- I did not write a post on November 1st nor in any of the previous 6 days. That means I've now missed 7 days. But, the spirit of the challenge will live on in that I will try to post much more frequently this month.
+There appears to be a ton of customization options. But for now, I am content with the basics. I really wanted to get it up and running, see what it does, and then tinker with it later, when I have time.
 
- Life has been very hectic lately and to be honest, some days I just have to push through and not really feel like I'm getting anywhere. Trying to start your own company, working a full-time job, and trying to balance family and making new friends has been way more challenging than I anticipated.
+Here is what the default looks like for me:
 
- But that is life. Others have it way harder. And often that's the only thing that gets me through.
+![Neofetch](/assets/images/neofetch.png)
 
- On the tech side of things, I need to write a blog post about spinning up an old laptop and dual-booting Solus on my existing linux machine. I have both ready to go, just need to take a few hours and see what happens. Bluetooth and wifi will probably be issues, as long as I can get past booting :)
+It's really simple, gives a lot of info, and frankly, just looks cool. It also satisfies my nerd side and makes me feel like I belong just a little bit more :)
 
- Well, that's it for today. Cheers.
+This was a really short post but I'm trying to get into some tech specific content. Cheers.
 
-Day 65: #100DaysToOffload
+Day 66: #100DaysToOffload
 
 <a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
