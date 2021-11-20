@@ -1,6 +1,6 @@
 ---
 title: Ryan's Blog
-header: Ryan Moore
+header: <img src="/assets/images/site-logo.png">
 description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
