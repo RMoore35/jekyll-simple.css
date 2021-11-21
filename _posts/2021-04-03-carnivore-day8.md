@@ -6,7 +6,7 @@ permalink: /carnivore-day8/
 layout: post
 ---
 
-This is day 8 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 8 of my 30 days of the carnivore diet. You can start from the beginning [here](https://rmooreblog.netlify.app/carnivore/).
 
 ## Update - Day 8
 
@@ -17,3 +17,5 @@ Otherwise, carnivore diet is going great!
 Cheers!
 
 Day 52: #100DaysToOffload
+
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

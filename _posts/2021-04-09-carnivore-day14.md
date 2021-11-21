@@ -6,7 +6,7 @@ permalink: /carnivore-day14/
 layout: post
 ---
 
-This is day 14 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 14 of my 30 days of the carnivore diet. You can start from the beginning [here](https://rmooreblog.netlify.app/carnivore/).
 
 ## Update - Day 14
 
@@ -20,4 +20,4 @@ The bowel issues are getting a little better but still not good enough for my li
 
 Day 57: #100DaysToOffload
 
-<a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

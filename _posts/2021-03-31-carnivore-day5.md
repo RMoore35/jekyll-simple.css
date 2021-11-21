@@ -6,7 +6,7 @@ permalink: /carnivore-day5/
 layout: post
 ---
 
-This is day 5 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 5 of my 30 days of the carnivore diet. You can start from the beginning [here](https://rmooreblog.netlify.app/carnivore/).
 
 ## Update - Day 5
 
@@ -16,4 +16,4 @@ Other than that, things are going well. Very low energy today but I read that is
 
 Day 49: #100DaysToOffload
 
-<a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

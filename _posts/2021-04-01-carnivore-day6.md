@@ -6,7 +6,7 @@ permalink: /carnivore-day6/
 layout: post
 ---
 
-This is day 6 of my 30 days of the carnivore diet. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 6 of my 30 days of the carnivore diet. You can start from the beginning [here](https://rmooreblog.netlify.app/carnivore/).
 
 ## Update - Day 6
 
@@ -16,4 +16,4 @@ Cheers!
 
 Day 50: #100DaysToOffload
 
-<a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

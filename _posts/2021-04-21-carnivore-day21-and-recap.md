@@ -6,7 +6,7 @@ permalink: /carnivore-day21-and-recap/
 layout: post
 ---
 
-This is day 21 of my 21 days (originally 30) of the carnivore diet. This is the final entry. You can start from the beginning [here](https://blog.mooreanalysis.com/carnivore/).
+This is day 21 of my 21 days (originally 30) of the carnivore diet. This is the final entry. You can start from the beginning [here](https://rmooreblog.netlify.app/carnivore/).
 
 ## Update - Day 21
 
