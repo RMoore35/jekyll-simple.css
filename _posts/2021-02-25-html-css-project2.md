@@ -6,7 +6,7 @@ permalink: /html-css-project2/
 layout: post
 ---
 
-I have learned quite a bit just since my <a href="https://blog.mooreanalysis.com/html-css-project/">last post</a> two days ago.
+I have learned quite a bit just since my <a href="https://rmooreblog.netlify.app/html-css-project/">last post</a> two days ago.
 
 First, I started adding enough styling to the first page that I started a style sheet. This is what mine currently looks like:
 

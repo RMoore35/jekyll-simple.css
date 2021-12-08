@@ -6,7 +6,7 @@ permalink: /question-recap/
 layout: post
 ---
 
-This is my recap of 10 days of exploring some interesting questions. Feel free to start at the <a href="https://blog.mooreanalysis.com/question1/">beginning.</a>
+This is my recap of 10 days of exploring some interesting questions. Feel free to start at the <a href="https://rmooreblog.netlify.app/question1/">beginning.</a>
 
 <h2> OK, so what the heck was that about?</h2>
 
@@ -28,4 +28,4 @@ So, these last 10 days of writing were very important for me. I hope to continue
 
 Day 29: #100DaysToOffload
 
-<a href="https://blog.mooreanalysis.com/feed.xml"><img src="/assets/images/rss_feed.jpg" width="40"/></a>
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

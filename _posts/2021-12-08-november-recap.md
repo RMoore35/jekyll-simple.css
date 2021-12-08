@@ -14,7 +14,7 @@ Plus, it gave me more time to accomplish an unofficial November challenge (unoff
 
 One of the ways I accomplished both of these goals was ironically, spending less time on my computer. I really was only on it to write a blog post, catch up over on Fosstodon (around 30 minutes), and the ever important bill paying and checking emails. I think this also helped alleviate some persistent afternoon headaches and general tiredness.
 
-I have found challenges and goal-setting very rewarding and I hope you do too! 
+I have found challenges and goal-setting very rewarding and I hope you do too!
 
 Day 74: #100DaysToOffload
 

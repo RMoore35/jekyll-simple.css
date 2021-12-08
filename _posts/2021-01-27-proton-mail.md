@@ -60,3 +60,5 @@ A few notable features:
 I hope this review was useful. I'm excited to see what else Proton Mail has to offer.
 
 Day 9: #100DaysToOffload
+
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

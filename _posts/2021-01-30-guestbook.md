@@ -7,7 +7,7 @@ layout: post
 ---
 
 I wanted to do a guide on how to set up a guestbook page on a Jekyll/Simple.css, like
-<a href="https://blog.mooreanalysis.com/guestbook/">mine.</a>
+<a href="https://rmooreblog.netlify.app/guestbook/">mine.</a>
 
 Note that as you will see below this is a (hopefully) temporary solution. If you are looking for a fully functional, fully automated guestbook you'll have to look elsewhere.
 
@@ -84,7 +84,7 @@ the guestbook.md file to include the following below the form:
   <li>Date: January 30th, 2021</li>
   <li>Name: Ryan</li>
   <li>Email: ryan.j.moore35@gmail.com</li>
-  <li>Website: <a href="https://blog.mooreanalysis.com/">blog.mooreanalysis.com</a></li>
+  <li>Website: <a href="https://rmooreblog.netlify.app/">rmooreblog.netlify.app</a></li>
   <li>Entry: This is what your entry will look like!</li>
 </ul>
 </code>
@@ -96,5 +96,6 @@ given my current time demands and skill level.
 
 If you have any feedback on this I look forward to hearing it!
 
-
 Day 12: #100DaysToOffload
+
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>

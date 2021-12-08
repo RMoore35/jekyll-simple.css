@@ -13,3 +13,5 @@ Many thanks to everyone who helped make this happen.
 Cheers.
 
 P.S. This is my first post of the #100DaysToOffload as well.
+
+<a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
