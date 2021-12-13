@@ -1,6 +1,6 @@
 ---
 title: Ryan's Blog
-header: <font face = "cursive">RM</font> ##<img src="/assets/images/site-logo.png">
+header: <font face = "cursive">RM</font>
 description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
