@@ -1,6 +1,6 @@
 ---
 title: Ryan's Blog
-header: RM <img src="/assets/images/site-logo.png">
+header: <img src="/assets/images/site-logo.png">
 description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
