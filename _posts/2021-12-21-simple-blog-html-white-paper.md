@@ -1,6 +1,6 @@
 ---
 title: HTML Blog White Paper
-header: HTML Blog White Pape
+header: HTML Blog White Paper
 description: A proposal to get anyone up and running with a website they coded quickly and efficiently
 permalink: /simple-blog-html-white-paper/
 layout: post
