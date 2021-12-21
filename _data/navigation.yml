@@ -16,5 +16,8 @@
 - name: GitHub
   link: https://github.com/RMoore35/jekyll-simple.css
 
+- name: search
+  link: /search
+
 - name: RSS
   link: https://rmooreblog.netlify.app/feed.xml
