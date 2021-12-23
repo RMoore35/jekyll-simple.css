@@ -8,7 +8,7 @@ layout: post
 
 Well, the year is almost over which means I've been on [Fosstodon](https://fosstodon.org/web/home) for nearly a year.
 
-This past year has been a year of seemingly drastic change. I made a move across the US, started two blogs, moved again, started a new job, and started a company. I picked up a handful of new hobbies, started more projects than I can count (finished some of them), lost over 20 pounds, battled a nagging foot injury, watched over 300 films, and drank a lot of coffee.
+This past year has been one of seemingly endless change. I made a move across the US, started two blogs, moved again, started a new job, and started a company. I picked up a handful of new hobbies, started more projects than I can count (finished some of them), lost over 20 pounds, battled a nagging foot injury, watched over 300 films, and drank a lot of coffee.
 
 Technology also became a much bigger part of my life. With starting two blogs and being a somewhat active member on [Fosstodon](https://fosstodon.org/web/home), I have spent a lot of time chatting, learning, and coding. Most of this has been time well spent.
 
@@ -20,7 +20,7 @@ A sense of belonging is really important for me. I have struggled my whole life 
 
 With my most recent move, I sense something different. Not only am I no longer required to move every few years but I feel very comfortable in saying that I may have found my long-term home. I may move around my town a few times but I don't see myself leaving any time soon.
 
-I believe this gives me more room to let relationships come and go as they naturally do. I have now met some great people around me but I don't have to rush.
+I believe this gives me more room to let relationships come and go as they naturally do. I have now met some great people in my area but I don't have to rush.
 
 In terms of my belonging online, I also think it gives me more room to explore more active contribution. I don't feel rushed to get out and meet people so I can settle in to some good projects knowing that I most likely have years and years to meet people. That's not me trying to take life for granted - that's me hoping for the best. Have I mentioned that I'm notoriously bad at that?
 
