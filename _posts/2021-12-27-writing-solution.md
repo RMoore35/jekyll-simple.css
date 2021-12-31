@@ -8,7 +8,7 @@ layout: post
 
 Well, here I am writing again from Manjaro. But this time, I'm writing from the Manjaro that is dual-booted on my HP laptop. I'm still writing in Ghostwriter and still enjoying it. I guess it has only been two days...
 
-As I was thinking of what to write next and reflecting more on Ghostwriter I thought of an interesting work-flow idea. Why not write my posts in Manjaro keep that side of my machine very bare bones (I've even thought about disabling WiFi - have to figure out how to do that)?
+As I was thinking of what to write next and reflecting more on Ghostwriter I thought of an interesting work-flow idea. Why not write my posts in Manjaro and keep that side of my machine very bare bones (I've even thought about disabling WiFi - have to figure out how to do that)?
 
 I also think this will give me the space to finally get back into creative writing.
 

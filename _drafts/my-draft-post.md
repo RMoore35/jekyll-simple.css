@@ -1,20 +1,20 @@
 ---
-title: System Clock
-header: Fixing dual-boot system clock
+title: CMOS Reset
+header: CMOS Reset
 description: How to make the system clock match when dual-booting linux/windows
-permalink: /system-clock/
+permalink: /cmos-reset/
 layout: post
 ---
 
-I wanted to share a quick little something after months of manually adjusting the clock each time I shifted from windows to linux.
+Didn't do any research before I did this - fortunately for me I didn't run into any issues.
 
-I don't know if this is a windows specific problem, or due to my laptop model (which I don't even know lol), or the linux distro I use (mint), or because I am dual-booting, or if I'm just a moron (likely). But, whenever I want the accurate time, I have to adjust it in the settings, only to have the clock show the wrong time when I switch to the other partition.
+As I had my laptop apart and couldn't find the button cell battery, it occurred to me, "Why don't I just unplug the battery"? I did and set it aside for 5 minutes and went to do something else.
 
-This is only a slight annoyance as I'm used to keeping track of several time zones and also military time. Regardless, it's nice to just look at the time and know that it is the real time!
+I plugged it back in, restarted my computer, and lo and behold, it told me that a successful CMOS reset had been performed. But, I couldn't get into Manjaro because it could not be authenticated. So I logged into Mint to see if I could figure out what was going on and bam, no internet. I had a momentary panic but figured I would just restart and see if that fixed it. When I restarted, I dug into BIOS a little bit and discovered that secure boot had been re-enabled. I fixed that and boom, I could log into Manjaro. Once on Manjaro both bluetooth and wifi were working so I was hopeful. Then, I restarted once more and now Mint was working perfectly.
 
-So, I fired up a search engine and quickly was able to find a solution. It turns out that there is a very simple change you can make that solves the issue.
+Does bluetooth work after periods of inactivity??
 
-INSERT LINK AND DESCRIPTION ON HOW TO DO IT.
+
 
 
 Day 61: #100DaysToOffload
