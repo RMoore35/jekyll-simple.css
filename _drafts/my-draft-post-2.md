@@ -1,31 +1,12 @@
 ---
-title: Diceware - An (un)guessable password?
-header: Diceware - An (un)guessable password?
-description: A method that creates a password even the NSA can't guess??
-permalink: /diceware/
+title: CMOS Reset
+header: CMOS Reset
+description: A successful reset and a life lesson
+permalink: /cmos-reset/
 layout: post
 ---
 
-A few weeks ago I learned about Diceware. I'm not a privacy/security expert, so everything you read here is suspect. I will try to limit this to just sharing the article and a few high-level thoughts on what seems to be an interesting approach to passphrases.
 
-I stumbled across [this](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/) article from The Intercept. The Intercept was started by Glenn Greenwald and Laura Poitras, the journalist and documentarian, respectively, who broke the Edward Snowden story wide open (in case you didn't know).
-
-That says nothing about The Intercepts authority or anything else. Just something cool they've done. The only thing it may add is that it probably contributed to their current system of how they deal with confidential sources. Which is essentially the gist of the article.
-
-OK, so what is Diceware? Well, you can read the [wiki](https://en.wikipedia.org/wiki/Diceware) for yourself. Essentially though, it's just a way to generate a passphrase using a diceroll to select from a list of words. Using basic math, a Diceware list consists of 7,776 words (6 to the 5th power, accounting for five rolls of a six-sided die).
-
-As stated, at the beginning, I'm not an expert, so the following is the shady bit:
-
-Apparently, as stated by the article, if you are using a seven word passphrase, there is a 1 in 1,719,070,799,748,422,591,028,658,176 chance that your passphrase will be guessed each try. Assuming, as the article does that Edward Snowden's January 13th warning to Laura Poitras was correct, it would take an average of 27 million years to guess the passphrase.
-
-After digging around a little, including on the wiki link above, this even assumes that the attacker would have the list of words used by the passphrase creator. So, even if they knew the 7,776 words used, i.e. a dictionary attack, it would still take on average the 27 million years cited. 
-
-I hope someone is reading this that can correct me if I'm wrong. My current passphrase is not quite this strong and I am considering a Diceware update in the near future. So please, tell me if I'm wrong!! I also don't want to mislead people!
-
-Well, I hope this at least brought some attention to Diceware if you had never heard of it. Just doing the little research I did has convinced me that I need to up my security a few levels. 
-
-Cheers!
-
-Day 91: #100DaysToOffload
+Day 93: #100DaysToOffload
 
 <a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
