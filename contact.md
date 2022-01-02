@@ -6,6 +6,8 @@ permalink: /contact/
 layout: default
 ---
 
-The best way to reach me is via email. I can be reached at the following:
+The best way to reach me:
 
-<a href="mailto:rmoore35@protonmail.com">rmoore35@protonmail.com</a>
+[Mastodon](https://fosstodon.org/web/@pyre35): I post here pretty frequently and you can find more about me here as well.
+
+[Matrix](https://matrix.org/): My username is @pyre35. Reach out to me on [Mastodon](https://fosstodon.org/web/@pyre35) if you have trouble with that.
