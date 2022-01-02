@@ -47,6 +47,16 @@ Entries:
 
 <p>
 <ul>
+  <li>Date: January 2nd, 2022</li>
+  <ul>
+  <li>Name: ilyess</li>
+  <li>Website: <a href="https://ilyess.cc/">ilyess.cc</a></li>
+  <li>Entry: Hey, this is a great idea! I'm thinking of adding a Guestbook on my site at some point too now. Very nice website with a good body of blog posts, all under the 512KB limit. Keep it up!</li>
+</ul></ul>
+</p>
+
+<p>
+<ul>
   <li>Date: November 9th, 2021</li>
   <ul>
   <li>Name: Joel Garcia</li>
