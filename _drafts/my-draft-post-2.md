@@ -12,7 +12,11 @@ https://pandammonium.org/how-to-change-a-git-repository-from-https-to-ssh/
 
 Generate a new SSH key
 
+Add the SSH key to your github repository
 
+Add the SSH key to your keychain
+
+Marvel at how easy this was
 
 Day 94: #100DaysToOffload
 
