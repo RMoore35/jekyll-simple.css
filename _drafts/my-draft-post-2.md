@@ -1,37 +1,19 @@
 ---
-title: Happy New Year
-header: Happy New Year
-description: A simple start to 2022
-permalink: /new-year-2022/
+title: Changing from HTTPS to SSH on Github
+header: Changing from HTTPS to SSH on Github
+description: The steps I took to change my auth method to SSH for my Github repositories
+permalink: /https-to-ssh/
 layout: post
 ---
 
-Well, first of all, Happy New Year!
+Change the remote path.
 
-This is the time of year when a lot of people set New Year's resolutions. I tend not to. Turns out we are notoriously bad at following them so I figure why bother?
+https://pandammonium.org/how-to-change-a-git-repository-from-https-to-ssh/
 
-Last year was a bit of an anomoly for me. I knew I had to make some changes. I also had the entire month of December though to start shifting my mindset to accomplish some of those.
+Generate a new SSH key
 
-This year I didn't have that. I certainly have improvements I need to make in my life and so I'm writing a lot of those down and making a plan for how I'm going to turn those into lasting changes.
 
-First, a retrospective.
 
-As we all know, 2021 was yet another interesting year. There were definitely high and low points for me but all in all it was a good yINSERT LINK TO WHITE PAPERear. I won't elaborate on many of the things I did or accomplished because I've done that elsewhere already. I will just say this: one of the most joyous moments of my life happened this year. I moved closer to family and one day it just hit me that I didn't have to move anymore. I can live in the city I live in for the rest of my life and probably be very content with that. I will most definitely travel - maybe even do some long-term travel - but I can always come back here and be close to family. That makes me incredibly happy and I don't want to take it for granted.
-
-A few things I would like to explore this year:
-
-1. Playing more guitar. This is one of my favorite hobbies and I have been in maintenance mode for way too long. While it's good I've been able to play for 5-10 minutes every day, at this rate I'm not getting any better and likely never will. I think around 30 minutes every day is a solid start and close enough to my current pace that I'll be able to achieve it.
-
-2. Helping get others involved in FOSS. One potential way to do that I introduced [here](https://rmooreblog.netlify.app/simple-blog-html-white-paper/). A few other ways I would like to start are getting people using Matrix to communicate and getting people to try Linux. I have yet to convince one person to do either one of those things.
-
-3. Run again. Nearly this entire year I have had a nagging foot injury. I really don't care if I can ever run 5 miles again. But in it's current state, my foot even gets sore doing things like planks and push-ups. I had it checked out once in September - an x-ray revealed no issues - and then I didn't follow-up with the doctor to go see a specialist. Really, it's just because I hate doctors. Don't get me wrong, I think they are fine people, I just hate the whole process and can't stand it. Everything is so "clean" and "sterile" it just all feels fake and impersonal, two things I very much dislike.
-
-Those are three things I'm thinking about how I can implement this year. I also have a few new friends I want to spend more time with. And let me tell you it can be awkward trying to build relationships as you get older. Things don't come naturally anymore.
-
-Well, that's it. I sincerely hope you and yours had as good of a 2021 as you could have and I wish you an even better 2022.
-
-Cheers!
-
-Day 93: #100DaysToOffload
+Day 94: #100DaysToOffload
 
 <a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
