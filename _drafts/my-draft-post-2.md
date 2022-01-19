@@ -6,22 +6,5 @@ permalink: /100-days-wrap-up/
 layout: post
 ---
 
-Well here we are. Today marks my successful completion of the [#100DaysToOffload](https://100daystooffload.com/) challenge. I started the challenge on January 19th, 2021 and am finishing today, January 18th, 2022. Let me say it has been quiet the journey. I've seen others that do a full review of all of their posts. I'm not going to do that but I will link to my [first post](https://rmooreblog.netlify.app/hello-world/) from January 19th, 2021 and you can see for yourself what I've been up to.
-
-To say it has been quiet the journey is a bit of an understatement considering what the world has gone through in 2020 and 2021. In 2020, I was not living a healthy life. This blog was one of many steps I took to start to get things back together in 2021. I wrote about a lot of things I found interesting and also wrote about my journey through the carnivore diet, which I promise not to write about again and that I cannot recommend in any way. As a quick aside, I did experience high energy levels but the costs outweighed the benefits for me.
-
-Throughout my writing I discovered a countless number of really cool tools. Everything from [syncthing](https://syncthing.net/) to my ultimate favorite [Ghostwriter](https://wereturtle.github.io/ghostwriter/). I learned a ton and shared as much as I could.
-
-I am pretty opposed to forced recommendations. This is a new term I am choosing for that thing we do where we say something along the lines of, "You have to try/watch/do this! It's great!" I hope nothing I wrote came across that way. I genuinely wanted to share what I was discovering and leave it up to you to do with it what you will. If you enjoyed anything I wrote, great. If not, no worries.
-
-My sincerest thanks go out to [Kev](https://kevq.uk/) for the excellent guides that allowed me to get this site started in the first place and for creating the [#100DaysToOffload](https://100daystooffload.com/) challenge.
-
-I can honestly say that completing this challenge has made me a better person. While I don't think I'll participate again right away, that has nothing to do with the challenge itself and more to do with some shifting priorities. I really want to explore creative writing again and need to invest time in that. In addition, I am starting my own company and it really needs more of my attention.
-
-This consistent writing has helped me to find my voice and I look forward to sharing more on this site in the future. That's a wrap - for now.
-
-Cheers!
-
-Day 100: #100DaysToOffload
 
 <a href="https://rmooreblog.netlify.app/feed.xml"><img src="/assets/images/rss_feed.jpg" style="opacity:1;" width="40"/></a>
