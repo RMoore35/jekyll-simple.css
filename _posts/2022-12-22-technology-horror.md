@@ -2,7 +2,7 @@
 title: Technology - Oh the Horror
 header: Technology - Oh the Horror
 description: Why I can't seem to solve my relationship with technology
-permalink: /technology/
+permalink: /technology-horror/
 layout: post
 ---
 
