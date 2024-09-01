@@ -18,7 +18,7 @@ But, since I'm really enjoying writing posts using Ghostwriter and a bare-bones 
 
 Don't worry. I'll start creating tags or something or make a separate part of my blog for creative writing.
 
-One thing I have noticed while writing the last two posts in Ghostwriter is that there is no spell-checking going on. When I try to select a dictionary for spell-check, there are no options. Interesting. I opened up ONLYOFFICE to check if spell-checking was happening there and it was. Guess I'll add that to the list of things to troubleshoot (including bluetooth - oof - which I discovered was no longer working while writing this post.
+One thing I have noticed while writing the last two posts in Ghostwriter is that there is no spell-checking going on. When I try to select a dictionary for spell-check, there are no options. Interesting. I opened up ONLYOFFICE to check if spell-checking was happening there and it was. Guess I'll add that to the list of things to troubleshoot (including bluetooth - oof - which I discovered was no longer working while writing this post.)
 
 Oh well, I think keeping this install to a bare minimum will ultimately help my writing flow in the long run. Even if I just spend the time word-vomiting on Manjaro and then switch over to Mint to do my edits, that may help. Ultimately, with creative writing, I need several hours at a time and I think then the no distractions part of it will really pay off.
 

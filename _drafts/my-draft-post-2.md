@@ -16,7 +16,7 @@ At the same time, I have enjoyed prolonged periods of silence. I have found myse
 
 During this year I have rediscovered the importance of taking stock, of self-challenges, of goal-setting, of reconnecting with those we love. If we have learned anything together over the past few years, let's remember who we are. If we don't like who we are, we can change that. If we aren't happy with who we are, seek to connect - to memories good and bad, to loved ones, to milestones. Let's even look forward to our legacy. 
 
-One of the driving forces in my life is wanting to leave a legacy. I want my kids and grandkids to be proud of me. Independant of if I ever make more than a certain amount of money, the kind of house I have, or how many friends I can call upon, did I leave a mark on my family? Will my kids and grandkids be able to reflect back and say, "He was a strong and faithful man?" 
+One of the driving forces in my life is wanting to leave a legacy. I want my kids and grandkids to be proud of me. Independant of if I ever make more than a certain amount of money, the kind of house I have, or how many friends I can call upon, did I leave a mark on my family? Will my kids and grandkids be able to reflect back and say, "He was a strong and faithful man"? 
 
 I think that's enough sappy reflections for one post.
 
