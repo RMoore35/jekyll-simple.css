@@ -1,7 +1,7 @@
 ---
 title: Silence - Again
 header: Silence - Again
-description: Nearly a year of silence and more change than I ever imagined
+description: Nearly a year of silence and more changes than I could have ever imagined
 permalink: /silence-again/
 layout: post
 ---
