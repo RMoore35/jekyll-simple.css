@@ -16,7 +16,8 @@ As of now, I will be manually reviewing and posting below the contact form.
 I hope to update this in the future to an easier system.
 
 <div style="background-color:black;color:white;padding:20px;border-radius:10px;">
-<form method="POST" name = "guestbook" data-netlify="true">  
+<form method="POST" name = "guestbook" netlify-honeypot="a_password" data-netlify="true">  
+ <input type="text" name="a_password" style="display:none !important" tabindex="-1" autocomplete="off">
  <p>  
    <label>Name*</label><br>  
    <input type="text" name="name">  
