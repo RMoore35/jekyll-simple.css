@@ -47,6 +47,33 @@ Entries:
 
 <p>
 <ul>
+  <li>Date: February 7th, 2025</li>
+  <ul>
+  <li>Name: Abhishek</li>
+  <li>Entry: Hey, I am a zoomer from India and this is my first signing a guestbook! Great site and it only weights so little!</li>
+</ul></ul>
+</p>
+
+<p>
+<ul>
+  <li>Date: January 17th, 2025</li>
+  <ul>
+  <li>Name: Sreekar Ramisetty</li>
+  <li>Entry: This is amazing. I can't believe you managed to fit this into such a small footprint! I'm currently working on a c++ program that has to be under 3kb, and it's quite a challenge.</li>
+</ul></ul>
+</p>
+
+<p>
+<ul>
+  <li>Date: December 21st, 2024</li>
+  <ul>
+  <li>Name: zzyzx </li>
+  <li>Entry: Stumbled upon your site and some of your thoughts and views on technology resonated with me, inspiring me to get back to the idea of building a static blog myself. Thank you, I wish you luck!</li>
+</ul></ul>
+</p>
+
+<p>
+<ul>
   <li>Date: January 2nd, 2022</li>
   <ul>
   <li>Name: ilyess</li>
