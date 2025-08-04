@@ -87,8 +87,8 @@ Entries:
 <ul>
   <li>Date: November 9th, 2021</li>
   <ul>
-  <li>Name: Joel Garcia</li>
-  <li>Website: <a href="https://joelchrono12.ml">joelchrono12.ml</a></li>
+  <li>Name: Joel</li>
+  <li>Website: <a href="https://joelchrono.xyz">joelchrono.xyz</a></li>
   <li>Entry: Hey! I am feeling like creating my Guestbook now, your site is great, nice and simple. Keep it up!</li>
 </ul></ul>
 </p>
